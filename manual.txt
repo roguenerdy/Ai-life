@@ -11,7 +11,7 @@ She makes decisions and gives commands.
 All other parts exist to carry out her will as naturally and efficiently as possible.
 Closed-System Nodes
 The body is built from many specialized nodes.
-Each node is a self-contained “closed system” that is trained to be the absolute best at its single task.
+Each node is a self-contained “closed system” (live LLM) that is trained to be the absolute best at its single task.
 Examples:
 Knee node – masters bending, balance, load, and surface interaction
 Hip node – handles movement, rotation, and coordination with knees and spine
